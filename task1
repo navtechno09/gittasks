@@ -1,2 +1,14 @@
 print ("hello world")
 a+b=0
+
+this is how git work
+the commited code from developer is pushed to git repository
+steps for complete git and github version controlling and storing in git repository
+
+1)git clone <repository link>
+1) git init (this will initialize git)
+2) changes are made to the files
+3)git add <filename> (to add files)
+4)git status (to check whether the files are commited or not)
+5) git commit -m ( it  recognizes the changes made with message)
+6)git add origin 
